@@ -15,8 +15,6 @@ This is a learning portfolio. I tinker, test ideas, document what worked, note w
 
 Everything published here is created from scratch for learning or demonstration.
 
-I do not publish client names, transactions, amounts, dates, account codes, documents, screenshots, identifiable workflows, credentials, API keys, or connections to live systems. Real client work remains in approved private systems.
-
 ## How I work
 
 1. Start with a clearly defined finance question.
